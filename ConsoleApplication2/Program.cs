@@ -14,7 +14,9 @@ namespace ConsoleApplication2
             //王以浦 潜入的版本 
             //ImporttentBranch Create
 
-            //
+           
         }
+
+        public string Name { get; set; }
     }
 }
