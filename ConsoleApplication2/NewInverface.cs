@@ -8,5 +8,8 @@ namespace ConsoleApplication2
     interface NewInverface
     {
         void Insert();
+
+
+        vod Update();
     }
 }
