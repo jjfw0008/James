@@ -7,5 +7,6 @@ namespace ConsoleApplication2
 {
     class Class1
     {
+        //...
     }
 }
